@@ -1,0 +1,15 @@
+{
+  "name": "getty-funnel-report",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Weekly Getty funnel report: EnTrance + QuickBase + Close -> Slack",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dry": "DRY_RUN=1 node src/index.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "entrancesms": "^1.0.0"
+  }
+}
