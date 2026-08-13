@@ -1,5 +1,1 @@
-9 blank-source merchants skipped (30/run cap)
-Close lookup failed for Sweetwater Farm and Ranch Company: Close 504 on /lead/?query=custom.lcf_1JKA1R2CukADLfBzoes3Tivn2ACLdysljqT72CnOsYj%3A%2212759%22&_limit=1: stream timeout
-Close lookup failed for Sky Raider Trucking LLC: Close 504 on /lead/?query=custom.lcf_1JKA1R2CukADLfBzoes3Tivn2ACLdysljqT72CnOsYj%3A%2212643%22&_limit=1: stream timeout
-Close activities failed for Superior Transmissions & Auto Repair LLC: Close 504 on /lead/?query=custom.lcf_1JKA1R2CukADLfBzoes3Tivn2ACLdysljqT72CnOsYj%3A%2212812%22&_limit=1: stream timeout
-Close activities failed for B. L. Mitchell, Inc.: Close 503 on /activity/?lead_id=lead_DEKDCrtoexrxfrJfFeDF9VjgViPxjH6y2cEo8hzgXR4&_limit=50: Service Unavailable
+11 blank-source merchants skipped (30/run cap)
