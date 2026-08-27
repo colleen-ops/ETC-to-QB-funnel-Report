@@ -63,15 +63,22 @@ module.exports = {
   ACTIVE_CODES: [
     'DK151', 'DK152', 'DK153', 'DK154', 'DK155', 'DK156',
     'DKCK1', 'DKCK', 'AT01', 'AT02',
+    'GCLV9', 'GC160', 'GC161', 'GC162',
   ],
 
   // Anything matching these is bucketed as "Older campaigns", never mixed in.
-  OLDER_CODES: ['DK147', 'DK148', 'DK149', 'DK150', 'DK9'],
+  OLDER_CODES: ['DK147', 'DK148', 'DK149', 'DK150', 'DK9', 'GCLV8'],
   OLDER_PREFIXES: ['TXT', 'RC'],
 
   // New codes get picked up automatically from EnTrance campaign names.
-  NEW_CODE_PATTERN: /\b(DK1[5-9]\d|AT0[3-9]|DKCK\d*)\b/i,
+  NEW_CODE_PATTERN: /\b(DK1[5-9]\d|AT0[3-9]|DKCK\d*|GCLV\d+|GC1[5-9]\d)\b/i,
 
   EXCLUDE_CAMPAIGN_WORDS: ['test', 'telynx'],
+  // Applied only to campaigns whose code is NOT recognized, so a small split of
+  // a real family (e.g. GCLV9-2 at 227 contacts) is never silently dropped.
   MIN_CONTACTS: 500,
+
+  // Count a campaign that stalled mid-send (status still 'ready' but it has a
+  // sent_at and real delivery numbers) instead of filing it under "never fired".
+  COUNT_PARTIAL_SENDS: true,
 };
