@@ -54,17 +54,24 @@ async function pullEntrance() {
     const status = String(c.status || '').toLowerCase();
     const contacts = num(c.total_contacts);
 
-    if (status === 'ready' || status === 'created') {
+    // A campaign left in 'ready' that nevertheless has a sent_at and real
+    // delivery numbers stalled mid-send — it still moved real volume.
+    const stalled =
+      cfg.COUNT_PARTIAL_SENDS && !!c.sent_at && (num(c.delivered) > 0 || num(c.sent) > 0);
+
+    if ((status === 'ready' || status === 'created') && !stalled) {
       unsent.push({ name, contacts, created_at: c.created_at });
       continue;
     }
-    if (status !== 'sent') continue;
+    if (status !== 'sent' && !stalled) continue;
     if (!c.sent_at || c.sent_at < cfg.WINDOW_START) continue;
     if (cfg.EXCLUDE_CAMPAIGN_WORDS.some((w) => lower.includes(w))) continue;
-    if (contacts < cfg.MIN_CONTACTS) continue;
 
     const code = codeOf(name);
+    // MIN_CONTACTS is a junk filter for unrecognized names only. A recognized
+    // code is a real campaign regardless of how small the split was.
     if (!code) continue;
+    if (contacts < cfg.MIN_CONTACTS && !cfg.ACTIVE_CODES.includes(code)) continue;
 
     splits.push({
       code,
@@ -74,6 +81,7 @@ async function pullEntrance() {
       delivered: num(c.delivered),
       replies: num(c.response),
       stops: num(c.stop),
+      partial: stalled && status !== 'sent',
     });
   }
 
