@@ -70,13 +70,25 @@ module.exports = {
   OLDER_CODES: ['DK147', 'DK148', 'DK149', 'DK150', 'DK9', 'GCLV8'],
   OLDER_PREFIXES: ['TXT', 'RC'],
 
-  // New codes get picked up automatically from EnTrance campaign names.
-  NEW_CODE_PATTERN: /\b(DK1[5-9]\d|AT0[3-9]|DKCK\d*|GCLV\d+|GC1[5-9]\d)\b/i,
+  // Any new family is picked up automatically: 2-4 letters immediately followed
+  // by 1-4 digits. DK163, DK164, SK165, GC166, YS01, DKCK1, GCLV9 all match.
+  // No config edit needed when the counter rolls or a new prefix appears.
+  // Trailing letters are allowed (GCLV9B is still GCLV9); trailing digits are
+  // not, so DK1634 is read whole rather than clipped to DK163.
+  NEW_CODE_PATTERN: /\b([A-Z]{2,4}\d{1,4})(?!\d)/i,
+
+  // Letter parts that look like a code but never are. Checked against the
+  // letters only, so JUN26 / WK32 / TEST1 never become a campaign family.
+  NON_CODE_PREFIXES: [
+    'JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JUNE',
+    'JUL', 'JULY', 'AUG', 'SEP', 'SEPT', 'OCT', 'NOV', 'DEC',
+    'WK', 'WEEK', 'DAY', 'TEST', 'TMP', 'DUP', 'OF', 'TO', 'IN', 'ON',
+  ],
 
   EXCLUDE_CAMPAIGN_WORDS: ['test', 'telynx'],
-  // Applied only to campaigns whose code is NOT recognized, so a small split of
-  // a real family (e.g. GCLV9-2 at 227 contacts) is never silently dropped.
-  MIN_CONTACTS: 500,
+  // Now that every code is pattern-matched, this is a junk floor rather than an
+  // unknown-code filter: it drops tiny scratch sends, nothing real.
+  MIN_CONTACTS: 100,
 
   // Count a campaign that stalled mid-send (status still 'ready' but it has a
   // sent_at and real delivery numbers) instead of filing it under "never fired".
