@@ -23,12 +23,40 @@ async function login() {
   if (!workspaceId && rec.workspace_id) workspaceId = String(rec.workspace_id);
 }
 
+/** Split a candidate like 'DK163' into its letter and digit halves. */
+function parts(code) {
+  const m = /^([A-Z]+)(\d+)$/.exec(code);
+  return m ? { letters: m[1], digits: m[2] } : null;
+}
+
+/** True for legacy families that must stay in the OLDER bucket, never active. */
+function isOlder(code) {
+  if (cfg.OLDER_CODES.includes(code)) return true;
+  const p = parts(code);
+  return !!p && cfg.OLDER_PREFIXES.includes(p.letters);
+}
+
 function codeOf(name) {
   const upper = String(name || '').toUpperCase().replace(/\s+/g, '');
+
+  // Pinned families win, longest first, so DKCK1 beats DKCK.
   const sorted = [...cfg.ACTIVE_CODES].sort((a, b) => b.length - a.length);
   for (const c of sorted) if (upper.includes(c)) return c;
-  const m = String(name || '').match(cfg.NEW_CODE_PATTERN);
-  return m ? m[1].toUpperCase() : null;
+
+  // Otherwise take the first letters+digits token that isn't noise or legacy.
+  // Only an uppercase prefix is joined across a space, so 'GC 166' reads as
+  // GC166 while 'blast 2 of 3' stays prose.
+  const joined = String(name || '').replace(/\b([A-Z]{2,4})\s+(\d{1,4})\b/g, '$1$2');
+  const re = new RegExp(cfg.NEW_CODE_PATTERN.source, 'gi');
+  for (const m of joined.matchAll(re)) {
+    const code = m[1].toUpperCase();
+    const p = parts(code);
+    if (!p) continue;
+    if (cfg.NON_CODE_PREFIXES.includes(p.letters)) continue;
+    if (isOlder(code)) continue;
+    return code;
+  }
+  return null;
 }
 
 function num(v) {
@@ -112,4 +140,4 @@ async function pullEntrance() {
   return { families, splits, unsent };
 }
 
-module.exports = { pullEntrance, codeOf };
+module.exports = { pullEntrance, codeOf, isOlder };
