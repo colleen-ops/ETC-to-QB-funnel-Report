@@ -1,18 +1,18 @@
-# Getty Weekly Funnel — 2026-09-08
+# Getty Weekly Funnel — 2026-09-10
 
 ## A) Campaigns
 
 | Campaign (sent) | 📤 Sent | 💬 Replies | Reply % | 🛑 Stops | 📥 Applied | ✅ Funded | 💵 Funded $ | Revenue |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | DK157 (2026-08-17) | 11,745 | 1,099 | 10.8% | 853 | 11 | 2 | $51,000 | $2,970 |
-| DK158 (2026-08-18) | 14,218 | 939 | 7.7% | 759 | 6 | 0 | $0 | $0 |
-| DK159 (2026-08-20) | 19,883 | 762 | 8.5% | 640 | 2 | 0 | $0 | $0 |
-| GC160 (2026-08-25) | 7,736 | 554 | 8.5% | 519 | 0 | 0 | $0 | $0 |
-| GC161 (2026-08-26) | 9,975 | 450 | 5.6% | 332 | 4 | 0 | $0 | $0 |
+| DK158 (2026-08-18) | 14,218 | 941 | 7.7% | 761 | 6 | 0 | $0 | $0 |
+| DK159 (2026-08-20) | 19,883 | 763 | 8.6% | 640 | 2 | 0 | $0 | $0 |
+| GC160 (2026-08-25) | 7,736 | 555 | 8.5% | 520 | 0 | 0 | $0 | $0 |
+| GC161 (2026-08-26) | 9,975 | 451 | 5.6% | 332 | 4 | 0 | $0 | $0 |
 | GC162 (2026-08-27) | 1,277 | 71 | 6.8% | 32 | 0 | 0 | $0 | $0 |
 | GCLV9 (2026-08-28) | 303 | 29 | 10.6% | 12 | 7 | 0 | $0 | $0 |
-| YS163 (2026-09-02) | 25,926 | 1,048 | 5.3% | 949 | 0 | 0 | $0 | $0 |
-| **TOTAL** | **91,063** | **4,952** | **7.4%** | **4,096** | **85** | **10** | **$340,780** | **$30,141** |
+| YS163 (2026-09-02) | 25,926 | 1,051 | 5.3% | 952 | 0 | 0 | $0 | $0 |
+| **TOTAL** | **91,063** | **4,960** | **7.4%** | **4,102** | **85** | **10** | **$340,780** | **$30,141** |
 | Older campaigns | — | — | — | — | 55 | 8 | $289,780 | $27,171 |
 
 ## B) Where They Stand
@@ -25,10 +25,10 @@
 | GC160 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | GC161 | 0 | 1 | 0 | 0 | 0 | 3 | **4** |
 | GC162 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| GCLV9 | 0 | 1 | 0 | 1 | 2 | 3 | **7** |
+| GCLV9 | 0 | 0 | 0 | 1 | 3 | 3 | **7** |
 | YS163 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| Older campaigns | 8 | 3 | 2 | 1 | 18 | 23 | **55** |
-| **TOTAL** | **10** | **5** | **2** | **2** | **26** | **40** | **85** |
+| Older campaigns | 8 | 4 | 2 | 1 | 18 | 22 | **55** |
+| **TOTAL** | **10** | **5** | **2** | **2** | **27** | **39** | **85** |
 
 ## C) Funded Deals
 
@@ -38,7 +38,7 @@
 | [MARYLAND TRUCK  & TRAILER REPAIR](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51102) | $60,000 | RC101 | Lendini | Calder Malin | 2026-07-17 | 41 | 49 |
 | [Denver Counseling Solutions LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51523) | $45,000 | DK157 | Lendini | Jack Allan | 2026-08-21 | 34 | 0 |
 | [Moran Landscapes LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51665) | $30,000 | DK147 | Spartan Capital | Henry Voorhees | 2026-08-31 | 47 | 0 |
-| [A&H express plumbing](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50703) | $20,000 | DK147 | Specialty Capital | Henry Voorhees | 2026-06-23 | 16 | 33 |
+| [A&H express plumbing](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50703) | $20,000 | DK147 | Specialty Capital | Henry Voorhees | 2026-06-23 | 15 | 28 |
 | [At Home Pet Services.](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51546) | $15,000 | TXT104 | Specialty Capital | Ryan Moore | 2026-08-24 | 45 | 4 |
 | [Caro Mata 365 Group LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50855) | $8,000 | TXT104 | Headway | Abe Grazi-1 | 2026-06-29 | 35 | 329 |
 | [Skytingr Cattle Company LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51465) | $6,000 | DK157 | Vader | Henry Voorhees | 2026-09-02 | 7 | 18 |
@@ -52,5 +52,5 @@
 | June 2026 | 13 | $389,280 | $34,780 | 9% | Feb-CSC $150K · Google Ads $83K · Mar23-CSC $50K |
 | July 2026 | 16 | $940,133 | $210,000 | 22% | FL-First Corp $160K · TXT91 $150K · May-CHTD $122K |
 | August 2026 | 10 | $283,250 | $90,000 | 32% | DKLV730 $109K · DK157 $45K · May-CSC $40K |
-| September 2026 | 3 | $50,300 | $6,000 | 12% | Sept24-CSC $38K · Aug-CT $6K · DK157 $6K |
-| **TOTAL** | **42** | **$1,662,963** | **$340,780** | **20%** | — |
+| September 2026 | 6 | $120,800 | $6,000 | 5% | Sept24-CSC $65K · GCLV7 $32K · DKLV716 $12K |
+| **TOTAL** | **45** | **$1,733,463** | **$340,780** | **20%** | — |
