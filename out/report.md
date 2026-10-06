@@ -1,4 +1,4 @@
-# Getty Weekly Funnel — 2026-10-05
+# Getty Weekly Funnel — 2026-10-06
 
 ## A) Campaigns
 
@@ -6,9 +6,9 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | GCLV27 (2026-09-25) | 208 | 17 | 9.7% | 8 | 0 | 0 | $0 | $0 |
 | GCLV31 (2026-09-30) | 164 | 11 | 8.8% | 7 | 1 | 0 | $0 | $0 |
-| DK160 (2026-10-01) | 17,891 | 1,159 | 7.9% | 1,071 | 2 | 0 | $0 | $0 |
-| **TOTAL** | **18,263** | **1,187** | **7.9%** | **1,086** | **64** | **10** | **$307,780** | **$28,931** |
-| Older campaigns | — | — | — | — | 61 | 10 | $307,780 | $28,931 |
+| DK160 (2026-10-01) | 17,891 | 1,166 | 7.9% | 1,079 | 2 | 0 | $0 | $0 |
+| **TOTAL** | **18,263** | **1,194** | **8.0%** | **1,094** | **65** | **10** | **$307,780** | **$28,931** |
+| Older campaigns | — | — | — | — | 62 | 10 | $307,780 | $28,931 |
 
 ## B) Where They Stand
 
@@ -17,14 +17,14 @@
 | GCLV27 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
 | GCLV31 | 0 | 0 | 0 | 0 | 1 | 0 | **1** |
 | DK160 | 0 | 0 | 0 | 0 | 0 | 2 | **2** |
-| Older campaigns | 10 | 2 | 3 | 2 | 19 | 24 | **60** |
-| **TOTAL** | **10** | **2** | **3** | **2** | **20** | **26** | **63** |
+| Older campaigns | 10 | 3 | 3 | 2 | 19 | 24 | **61** |
+| **TOTAL** | **10** | **3** | **3** | **2** | **20** | **26** | **64** |
 
 ## C) Funded Deals
 
 | 🏢 Business | 💵 $ | 🎯 Came From | 🏦 Lender | 🧑 Rep | 📅 Date | 📞 Touches | Days to Fund |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Nashville Garage Door Depot LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50796) | $150,000 | TXT91 | IOU Financial | Calder Malin | 2026-07-15 | 43 | 14 |
+| [Nashville Garage Door Depot LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50796) | $150,000 | TXT91 | IOU Financial | Calder Malin | 2026-07-15 | 42 | 13 |
 | [MARYLAND TRUCK  & TRAILER REPAIR](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51102) | $60,000 | RC101 | Lendini | Calder Malin | 2026-07-17 | 40 | 49 |
 | [Moran Landscapes LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51665) | $30,000 | DK147 | Spartan Capital | Henry Voorhees | 2026-08-31 | 47 | 0 |
 | [A&H express plumbing](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50703) | $20,000 | DK147 | Specialty Capital | Henry Voorhees | 2026-06-23 | 0 | — |
