@@ -1,1 +1,1 @@
-17 blank-source merchants skipped (30/run cap)
+13 blank-source merchants skipped (30/run cap)
