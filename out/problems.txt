@@ -1,1 +1,2 @@
+EnTrance pull failed: API request failed: 400 Bad Request
 13 blank-source merchants skipped (30/run cap)
