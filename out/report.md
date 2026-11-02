@@ -1,35 +1,36 @@
-# Getty Weekly Funnel — 2026-10-26
+# Getty Weekly Funnel — 2026-11-02
 
 ## A) Campaigns
 
 | Campaign (sent) | 📤 Sent | 💬 Replies | Reply % | 🛑 Stops | 📥 Applied | ✅ Funded | 💵 Funded $ | Revenue |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **TOTAL** | **0** | **0** | **0.0%** | **0** | **65** | **12** | **$627,780** | **$49,631** |
-| Older campaigns | — | — | — | — | 65 | 12 | $627,780 | $49,631 |
+| **TOTAL** | **0** | **0** | **0.0%** | **0** | **70** | **13** | **$667,780** | **$54,431** |
+| Older campaigns | — | — | — | — | 70 | 13 | $667,780 | $54,431 |
 
 ## B) Where They Stand
 
 | Campaign | ✅ Funded | 👍 Approved | 🔀 Went Elsewhere | 📄 Needs Info | 🙅 Said No To Us | ❌ We Declined | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Older campaigns | 12 | 1 | 3 | 2 | 22 | 25 | **65** |
-| **TOTAL** | **12** | **1** | **3** | **2** | **22** | **25** | **65** |
+| Older campaigns | 13 | 1 | 3 | 2 | 22 | 29 | **70** |
+| **TOTAL** | **13** | **1** | **3** | **2** | **22** | **29** | **70** |
 
 ## C) Funded Deals
 
 | 🏢 Business | 💵 $ | 🎯 Came From | 🏦 Lender | 🧑 Rep | 📅 Date | 📞 Touches | Days to Fund |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Son of a B-A LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52147) | $220,000 | ⚠️ txt41 | Fora Financial | Henry Voorhees | 2026-10-06 | 48 | 7 |
-| [Nashville Garage Door Depot LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50796) | $150,000 | TXT91 | IOU Financial | Calder Malin | 2026-07-15 | 41 | 13 |
-| [PEARL & OTTAWA LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52224) | $100,000 | DK147 | Specialty Capital | Jhordany Nunez | 2026-10-07 | 36 | 1 |
-| [MARYLAND TRUCK  & TRAILER REPAIR](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51102) | $60,000 | RC101 | Lendini | Calder Malin | 2026-07-17 | 26 | 44 |
-| [Moran Landscapes LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51665) | $30,000 | DK147 | Spartan Capital | Henry Voorhees | 2026-08-31 | 47 | 0 |
+| [Nashville Garage Door Depot LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50796) | $150,000 | TXT91 | IOU Financial | Calder Malin | 2026-07-15 | 40 | 9 |
+| [PEARL & OTTAWA LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52224) | $100,000 | DK147 | Specialty Capital | Jordan Nunez | 2026-10-07 | 24 | 0 |
+| [MARYLAND TRUCK  & TRAILER REPAIR](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51102) | $60,000 | RC101 | Lendini | Calder Malin | 2026-07-17 | 0 | — |
+| [USA WATER SOFTENER FILTERS, INC.](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52672) | $40,000 | TXT109 | OnDeck | Ike Elmore | 2026-10-30 | 27 | 2 |
+| [Moran Landscapes LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51665) | $30,000 | DK147 | Spartan Capital | Henry Voorhees | 2026-08-31 | 25 | 0 |
 | [A&H express plumbing](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50703) | $20,000 | DK147 | Specialty Capital | Henry Voorhees | 2026-06-23 | 0 | — |
-| [Rv mobile and appliance repair llc](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52002) | $17,000 | RC101 | Bitty Advance | Calder Malin | 2026-09-24 | 48 | 38 |
+| [Rv mobile and appliance repair llc](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52002) | $17,000 | RC101 | Bitty Advance | Calder Malin | 2026-09-24 | 47 | 38 |
 | [At Home Pet Services.](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51546) | $15,000 | TXT104 | Specialty Capital | Ryan Moore | 2026-08-24 | 36 | 4 |
 | [Caro Mata 365 Group LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50855) | $8,000 | TXT104 | Headway | Abe Grazi-1 | 2026-06-29 | 28 | 298 |
 | [TKB Tax and Accounting LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50801) | $5,000 | TXT29 | Headway | Jeffery Lev | 2026-06-29 | 23 | 595 |
 | [Renovations station inc](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50723) | $1,780 | TXT28 | Rapid Finance | Abe Grazi-1 | 2026-06-16 | 0 | — |
-| [JANELL LYN PEKKAIN](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52040) | $1,000 | TXT97 | OnDeck | Calder Malin | 2026-09-30 | 37 | 109 |
+| [JANELL LYN PEKKAIN](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52040) | $1,000 | TXT97 | OnDeck | Calder Malin | 2026-09-30 | 34 | 99 |
 
 ## D) Non Renewal Monthly Money
 
@@ -39,5 +40,5 @@
 | July 2026 | 16 | $940,133 | $210,000 | 22% | FL-First Corp $160K · TXT91 $150K · May-CHTD $122K |
 | August 2026 | 9 | $268,250 | $45,000 | 17% | DKLV730 $109K · DK157 $45K · May-CSC $40K |
 | September 2026 | 14 | $269,300 | $18,000 | 7% | Sept24-CSC $65K · GCLV13 $50K · June-CT $32K |
-| October 2026 | 9 | $675,500 | $320,000 | 47% | txt41 $220K · DK147 $100K · Feb-CSC $95K |
-| **TOTAL** | **61** | **$2,542,463** | **$627,780** | **25%** | — |
+| October 2026 | 12 | $1,275,500 | $360,000 | 28% | Ple-6 $500K · txt41 $220K · DK147 $100K |
+| **TOTAL** | **64** | **$3,142,463** | **$667,780** | **21%** | — |
