@@ -1,18 +1,18 @@
-# Getty Weekly Funnel — 2026-11-09
+# Getty Weekly Funnel — 2026-11-16
 
 ## A) Campaigns
 
 | Campaign (sent) | 📤 Sent | 💬 Replies | Reply % | 🛑 Stops | 📥 Applied | ✅ Funded | 💵 Funded $ | Revenue |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **TOTAL** | **0** | **0** | **0.0%** | **0** | **72** | **13** | **$667,780** | **$54,431** |
-| Older campaigns | — | — | — | — | 72 | 13 | $667,780 | $54,431 |
+| **TOTAL** | **0** | **0** | **0.0%** | **0** | **73** | **13** | **$667,780** | **$54,431** |
+| Older campaigns | — | — | — | — | 73 | 13 | $667,780 | $54,431 |
 
 ## B) Where They Stand
 
 | Campaign | ✅ Funded | 👍 Approved | 🔀 Went Elsewhere | 📄 Needs Info | 🙅 Said No To Us | ❌ We Declined | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Older campaigns | 13 | 1 | 3 | 2 | 22 | 31 | **72** |
-| **TOTAL** | **13** | **1** | **3** | **2** | **22** | **31** | **72** |
+| Older campaigns | 13 | 1 | 3 | 2 | 22 | 32 | **73** |
+| **TOTAL** | **13** | **1** | **3** | **2** | **22** | **32** | **73** |
 
 ## C) Funded Deals
 
@@ -41,5 +41,5 @@
 | August 2026 | 9 | $268,250 | $45,000 | 17% | DKLV730 $109K · DK157 $45K · May-CSC $40K |
 | September 2026 | 14 | $269,300 | $18,000 | 7% | Sept24-CSC $65K · GCLV13 $50K · June-CT $32K |
 | October 2026 | 12 | $1,275,500 | $360,000 | 28% | Ple-6 $500K · txt41 $220K · DK147 $100K |
-| November 2026 | 3 | $260,000 | $0 | 0% | Jan-CSC $200K · KIP33 $30K · June-CT $30K |
-| **TOTAL** | **67** | **$3,402,463** | **$667,780** | **20%** | — |
+| November 2026 | 6 | $314,000 | $0 | 0% | Jan-CSC $200K · KIP33 $30K · June-CT $30K |
+| **TOTAL** | **70** | **$3,456,463** | **$667,780** | **19%** | — |
