@@ -1,18 +1,18 @@
-# Getty Weekly Funnel — 2026-11-16
+# Getty Weekly Funnel — 2026-11-23
 
 ## A) Campaigns
 
 | Campaign (sent) | 📤 Sent | 💬 Replies | Reply % | 🛑 Stops | 📥 Applied | ✅ Funded | 💵 Funded $ | Revenue |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **TOTAL** | **0** | **0** | **0.0%** | **0** | **73** | **13** | **$667,780** | **$54,431** |
-| Older campaigns | — | — | — | — | 73 | 13 | $667,780 | $54,431 |
+| **TOTAL** | **0** | **0** | **0.0%** | **0** | **74** | **13** | **$667,780** | **$54,431** |
+| Older campaigns | — | — | — | — | 74 | 13 | $667,780 | $54,431 |
 
 ## B) Where They Stand
 
 | Campaign | ✅ Funded | 👍 Approved | 🔀 Went Elsewhere | 📄 Needs Info | 🙅 Said No To Us | ❌ We Declined | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Older campaigns | 13 | 1 | 3 | 2 | 22 | 32 | **73** |
-| **TOTAL** | **13** | **1** | **3** | **2** | **22** | **32** | **73** |
+| Older campaigns | 13 | 1 | 4 | 2 | 22 | 32 | **74** |
+| **TOTAL** | **13** | **1** | **4** | **2** | **22** | **32** | **74** |
 
 ## C) Funded Deals
 
@@ -23,7 +23,7 @@
 | [PEARL & OTTAWA LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52224) | $100,000 | DK147 | Specialty Capital | Jordan Nunez | 2026-10-07 | 0 | — |
 | [MARYLAND TRUCK  & TRAILER REPAIR](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51102) | $60,000 | RC101 | Lendini | Calder Malin | 2026-07-17 | 0 | — |
 | [USA WATER SOFTENER FILTERS, INC.](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52672) | $40,000 | TXT109 | OnDeck | Ike Elmore | 2026-10-30 | 27 | 2 |
-| [Moran Landscapes LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51665) | $30,000 | DK147 | Spartan Capital | Henry Voorhees | 2026-08-31 | 25 | 0 |
+| [Moran Landscapes LLC](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51665) | $30,000 | DK147 | Spartan Capital | Henry Voorhees | 2026-08-31 | 0 | — |
 | [A&H express plumbing](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=50703) | $20,000 | DK147 | Specialty Capital | Henry Voorhees | 2026-06-23 | 0 | — |
 | [Rv mobile and appliance repair llc](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=52002) | $17,000 | RC101 | Bitty Advance | Calder Malin | 2026-09-24 | 44 | 3 |
 | [At Home Pet Services.](https://ifundco.quickbase.com/db/bn5gjsf9c?a=dr&rid=51546) | $15,000 | TXT104 | Specialty Capital | Ryan Moore | 2026-08-24 | 36 | 4 |
@@ -41,5 +41,5 @@
 | August 2026 | 9 | $268,250 | $45,000 | 17% | DKLV730 $109K · DK157 $45K · May-CSC $40K |
 | September 2026 | 14 | $269,300 | $18,000 | 7% | Sept24-CSC $65K · GCLV13 $50K · June-CT $32K |
 | October 2026 | 12 | $1,275,500 | $360,000 | 28% | Ple-6 $500K · txt41 $220K · DK147 $100K |
-| November 2026 | 6 | $314,000 | $0 | 0% | Jan-CSC $200K · KIP33 $30K · June-CT $30K |
-| **TOTAL** | **70** | **$3,456,463** | **$667,780** | **19%** | — |
+| November 2026 | 12 | $582,500 | $0 | 0% | Jan-CSC $200K · July-CT $150K · KIP033 $65K |
+| **TOTAL** | **76** | **$3,724,963** | **$667,780** | **18%** | — |
